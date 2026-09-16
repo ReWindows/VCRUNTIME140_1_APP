@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "VCRUNTIME140_1_APP.dll",
+  "latest": "606015248-DEA80AAD30F78332E13F19ACC2118F9C-1",
+  "builds": [
+    {
+      "key": "606015248-DEA80AAD30F78332E13F19ACC2118F9C-1",
+      "timestamp": "606015248",
+      "pdb_guid": "DEA80AAD30F78332E13F19ACC2118F9C",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/606015248-DEA80AAD30F78332E13F19ACC2118F9C-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
